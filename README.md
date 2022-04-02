@@ -6,7 +6,7 @@ FUNCIONAMENTO
 
   - Usuário informa o valor da dívida (sem juros)
   - Usuário informa a quantiade de dias que a divida está atrasada
-  - o Sistema calcula o percentual do juros com base na quantidade de dias informada pelo usuário
+  - Sistema calcula o percentual do juros com base na quantidade de dias informada pelo usuário
   - Sistema retorna imprimindo na tela
     1. Valor original da dívida
     2. Dias em atraso (informado pelo usuário)
