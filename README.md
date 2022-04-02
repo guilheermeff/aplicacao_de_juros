@@ -12,4 +12,4 @@ FUNCIONAMENTO
     2. Dias em atraso (informado pelo usuário)
     3. Taxa de juros (5% até 15 dias e 10% acima de 15 dias de atraso)
     4. Valor do juros em R$
-    5. Valor total com juros 
+    5. Valor total com juros em R$
